@@ -1,0 +1,6 @@
+Vase krestni jmeno je Jan
+Vase prijmeni je Novak
+Vase vzdelani je VS 
+Vase vyska je 180
+Vase hmotnost je 98
+Vas vek je 43

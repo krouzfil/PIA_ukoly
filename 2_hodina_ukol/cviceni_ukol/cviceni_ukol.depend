@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1664874302 source:/home/krouzfil/Documents/Programovani_ing_aplikaci/2_hodina/cviceni_ukol/cviceni_ukol/main_3.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+

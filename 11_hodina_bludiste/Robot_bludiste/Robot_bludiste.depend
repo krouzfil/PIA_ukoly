@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1669727541 source:/home/krouzfil/Documents/Programovani_ing_aplikaci/11_hodina_bludiste/Bludiste.cpp
+	"Bludiste.h"
+	<sstream>
+	<fstream>
+	<exception>
+
+1670691470 /home/krouzfil/Documents/Programovani_ing_aplikaci/11_hodina_bludiste/Bludiste.h
+	<vector>
+	<string>
+
+1669727541 source:/home/krouzfil/Documents/Programovani_ing_aplikaci/11_hodina_bludiste/main.cpp
+	"Prohledavac.h"
+	"Bludiste.h"
+	"VasRobot.h"
+	<string>
+	<iostream>
+	<vector>
+	<memory>
+
+1670691750 /home/krouzfil/Documents/Programovani_ing_aplikaci/11_hodina_bludiste/Prohledavac.h
+	"Bludiste.h"
+	<string>
+
+1670843477 /home/krouzfil/Documents/Programovani_ing_aplikaci/11_hodina_bludiste/VasRobot.h
+	"Prohledavac.h"
+
+1670843642 source:/home/krouzfil/Documents/Programovani_ing_aplikaci/11_hodina_bludiste/VasRobot.cpp
+	"VasRobot.h"
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Robot_bludiste" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Robot_bludiste" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Robot_bludiste" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../Bludiste.cpp" />
+		<Unit filename="../Bludiste.h" />
+		<Unit filename="../LABYRINT_bludiste.dat" />
+		<Unit filename="../NAHODNY_bludiste.dat" />
+		<Unit filename="../PRAZDNY_bludiste.dat" />
+		<Unit filename="../Prohledavac.h" />
+		<Unit filename="../README.md" />
+		<Unit filename="../VasRobot.cpp" />
+		<Unit filename="../VasRobot.h" />
+		<Unit filename="../ZED1_bludiste.dat" />
+		<Unit filename="../ZED2_bludiste.dat" />
+		<Unit filename="../main.cpp" />
+		<Unit filename="../nakresli_bludiste.m" />
+		<Unit filename="../nakresli_cestu.m" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

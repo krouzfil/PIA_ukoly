@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1669128876 source:/home/krouzfil/Documents/Programovani_ing_aplikaci/7_hodina/cviceni_7/src/Tvar.cpp
+	"Tvar.h"
+	<fstream>
+
+1669127031 /home/krouzfil/Documents/Programovani_ing_aplikaci/7_hodina/cviceni_7/include/Tvar.h
+
+1669127271 source:/home/krouzfil/Documents/Programovani_ing_aplikaci/7_hodina/cviceni_7/main_7.cpp
+	<iostream>
+	<memory>
+	"Tvar.h"
+	"Kruh.h"
+
+1669127065 /home/krouzfil/Documents/Programovani_ing_aplikaci/7_hodina/cviceni_7/include/Kruh.h
+	<iostream>
+	"Tvar.h"
+
+1669128991 source:/home/krouzfil/Documents/Programovani_ing_aplikaci/7_hodina/cviceni_7/src/Kruh.cpp
+	<iostream>
+	<cmath>
+	"Kruh.h"
+
