@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667916530 source:/home/krouzfil/Documents/Programovani_ing_aplikaci/Insertion_sort/main_10.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+
