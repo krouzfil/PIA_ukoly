@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1671206416 source:/home/krouzfil/Documents/Programovani_ing_aplikaci/8_hodina/8_cviceni/main_11.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+	"Clovek.h"
+
+1671057115 source:/home/krouzfil/Documents/Programovani_ing_aplikaci/8_hodina/8_cviceni/src/Clovek.cpp
+	"Clovek.h"
+	<iostream>
+
+1671206365 /home/krouzfil/Documents/Programovani_ing_aplikaci/8_hodina/8_cviceni/include/Clovek.h
+	<iostream>
+	<vector>
+
